@@ -1,0 +1,23 @@
+{
+  "name": "webpack-licenses-plugin",
+  "version": "0.0.1",
+  "description": "Auto generate a list of libraries and their licenses as part of your webpack build",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adoppler/webpack-licenses-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "license"
+  ],
+  "author": "adoppler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adoppler/webpack-licenses-plugin/issues"
+  },
+  "homepage": "https://github.com/adoppler/webpack-licenses-plugin#readme"
+}
